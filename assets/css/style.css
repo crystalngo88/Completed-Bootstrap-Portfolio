@@ -282,8 +282,3 @@ input[type=submit] {
 .portfolio-section {
   align-content: center;
 }
-
-.row {
-  margin-bottom: 20px !important;
-  height: 100%;
-}

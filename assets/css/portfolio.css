@@ -1,0 +1,27 @@
+.row {
+    margin-bottom: 20px !important;
+    height: 100%;
+  }
+  
+  .card {
+    height: 100%;
+  }
+
+  h5.card-title {
+    font-weight: bold !important;
+  }
+
+  .card-body {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  button.btn {
+    margin-top: auto;
+  }
+
+  .bottom {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+  }
